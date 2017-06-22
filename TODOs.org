@@ -1,0 +1,12 @@
+1. Swarm of Sinatra apps.
+2. Nginx proxy.
+3. docker-compose.yml
+3. Nginx template for load balancing and routing.
+4. Postgres - single instance.
+5. Use from the app.
+6. Postgres - streaming replication.
+7. Worker writing to master.
+
+TODO:
+- [ ] Hello, world Sinatra app.
+- [ ] docker compose it.
